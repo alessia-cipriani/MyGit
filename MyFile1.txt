@@ -1,1 +1,2 @@
-Modifica 1 da repository locale
+Modifica 1 da repository locale.
+Modifica da repository remoto
