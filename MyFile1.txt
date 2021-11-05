@@ -1,4 +1,2 @@
-Modifica 1 da repository locale.
-Modifica da repository remoto.
+Modifica (potenzialmente conflittuale) da locale branch1
 
-Modifica da locale nel ramo MyBranch1.
